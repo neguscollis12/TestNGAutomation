@@ -3,13 +3,13 @@
 <suite name="Smoke Test" verbose="1" >
     <test name="Login Test" >
         <classes>
-            <class name="com.automation.tests.LoginTest" />
+            <class name="com.automation.tests.tests.LoginTest" />
         </classes>
     </test>
 
     <test name="LogoutTest">
         <classes>
-            <class name="com.automation.tests.LogoutTest"/>
+            <class name="com.automation.tests.tests.LogoutTest"/>
         </classes>
     </test>
 </suite>
